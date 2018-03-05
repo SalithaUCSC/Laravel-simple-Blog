@@ -11,3 +11,11 @@
 8. Open a **cmd** and go into the project folder using : cd "C:\xampp\htdocs\Blog
 9. Type **php artisan serve** in cmd.
 9. Open the web browser and type the URL for the project as - "http://localhost:8000".
+
+### Screenshots
+
+![postsview](https://user-images.githubusercontent.com/23145752/36991127-cb394cf0-20cc-11e8-8940-2f2e27745a96.png)
+
+![createpost](https://user-images.githubusercontent.com/23145752/36991411-96161e4e-20cd-11e8-93c3-aab1ec1f12ef.png)
+
+![signlepost](https://user-images.githubusercontent.com/23145752/36991293-40b64ece-20cd-11e8-9d08-e207867b9c08.png)
